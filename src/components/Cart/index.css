@@ -38,10 +38,10 @@
 }
 
 /* Write your CSS here */
-.removeall-btn{
-  font-family: "roboto";
+.removeall-btn {
+  font-family: 'roboto';
   font-weight: bold;
-  color:#0b69ff;
+  color: #0b69ff;
   border: none;
   border-width: none;
   background-color: transparent;
@@ -50,8 +50,8 @@
   text-align: right;
   padding-right: 5px;
 }
-@media screen and (min-width:576px){
-  .removeall-btn{
+@media screen and (min-width: 576px) {
+  .removeall-btn {
     font-size: 24px;
     padding-right: 10px;
   }
